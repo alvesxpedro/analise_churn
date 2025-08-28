@@ -11,6 +11,6 @@ Projeto de analise de churn utilizando Python e Jupyter Notebook.
 Identificar padrões que influenciam o churn de clientes e fornecer insights para retenção.
 
 ## Tecnologias
--Python
--Pandas, Matplotlib, Seaborn
--Jupyter Notebook
+- Python
+- Pandas, Matplotlib, Seaborn
+- Jupyter Notebook
